@@ -1,4 +1,4 @@
-# 🌐 Network Scanner
+# Network Scanner
 
 A desktop application for discovering devices and scanning open ports on your local network, built with Python.
 
@@ -108,13 +108,6 @@ network-scanner/
 ├── test_scan.py    # Network scan test script
 └── README.md
 ```
-
----
-
-## Author
-
-**Sergio Nunez** — Computer Engineering, B.S.  
-[GitHub](https://github.com/MaxsCaretaker) | [LinkedIn](https://linkedin.com/in/sergio-nunez)
 
 ---
 
